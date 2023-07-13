@@ -16,3 +16,10 @@ It is lightweight and takes less storage however doesn't have anything [NodeJS](
 
 ## Installation
 To install Pyletron Builder, goto the [releases](https://github.com/pyletron/builder/releases) tab and get the [latest](https://github.com/pyletron/builder/releases/latest) release from [GitHub](https://github.com), You can also get the source code. **You require [Python](https://www.python.org/) to use Pyletron.**
+
+## Requirements
+You need to complete these requirements to sucessfully run Pyletron Builder and compile your web application into a desktop application.
+'''
+You need a Manifest File
+You can generate one with [Pyletron Manifest Generator](https://github.com/pyletron/manifest-generator)
+'''
