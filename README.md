@@ -12,7 +12,7 @@ Pyletron Builder allows you to create desktop applications using HTML, CSS and J
 
 It is lightweight and takes less storage however doesn't have anything [NodeJS](https://github.com/nodejs/node) related, and it's also an alternative to [Electron](https://github.com/electron/electron).
 
-*Note: The 'pyletronIcon.ico' file needs to be in the same directory as build.exe/build.bat for it to run.*
+*Note: The 'pyletronIcon.ico' file needs to be in the same directory as [build.exe](https://github.com/pyletron/builder/releases/latest)/[build.py](https://github.com/pyletron/builder/blob/main/build.py) for it to run.*
 
-# Installation
+## Installation
 To install Pyletron Builder, goto the [releases](https://github.com/pyletron/builder/releases) tab and get the [latest](https://github.com/pyletron/builder/releases/latest) release from [GitHub](https://github.com), You can also get the source code. **You require [Python](https://www.python.org/) to use Pyletron.**
