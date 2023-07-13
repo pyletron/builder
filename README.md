@@ -19,7 +19,20 @@ To install Pyletron Builder, goto the [releases](https://github.com/pyletron/bui
 
 ## Requirements
 You need to complete these requirements to sucessfully run Pyletron Builder and compile your web application into a desktop application.
-'''
+```
 You need a Manifest File
-You can generate one with [Pyletron Manifest Generator](https://github.com/pyletron/manifest-generator)
-'''
+You can generate one with Pyletron Manifest Generator
+When the 'manifest.json' file is generated, move it to the same folder as 'build.exe/build.py'
+Get it here: https://github.com/pyletron/manifest-generator
+
+You need the actual web files as well which are your html, css and js files.
+You need to make a folder named 'html' in the same directory as build.exe/build.py.
+There needs to be an 'index.html' file in the root of the 'html'.
+```
+
+## License
+[GNU GPL v3.0](https://github.com/pyletron/builder/blob/main/LICENSE)
+
+## Press Kit
+Pyletron has a small press kit.
+You can check it out [here](https://github.com/pyletron/press-kit).
